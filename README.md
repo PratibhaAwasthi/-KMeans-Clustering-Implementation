@@ -1,4 +1,4 @@
-# -KMeans-Clustering-Implementation
+# KMeans-Clustering-Implementation
 
 ## Introduction:
 This project is an implementation of the KMeans clustering algorithm using Python and the scikit-learn library. The code generates a fake dataset using the make_blobs() function and applies the KMeans algorithm with different numbers of clusters to determine the optimal number of clusters using the elbow method.
